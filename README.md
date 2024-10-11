@@ -10,3 +10,4 @@ meu nome é Enzo, sou um programador iniciante, simpático e muiiito otimista!
 +55 13-981512007 
 
 ![](https://media1.tenor.com/m/11pIJ_2PBhIAAAAC/girl-car.gif)
+
